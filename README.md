@@ -27,3 +27,4 @@ This project is a web application that identifies sports celebrities from upload
 - scikit-learn
 - Numpy
 
+![Screenshot of the application](Screenshot (96).png)
